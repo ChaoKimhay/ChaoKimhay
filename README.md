@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **chaokimhay@gmail.com**
 
-- ⚡ Fun fact **I am friendly**
+- **(ʘ ͜ʖ ʘ)**
 
 
 <h3 align="left">Connect with me:</h3>
