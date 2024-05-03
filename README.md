@@ -1,4 +1,4 @@
-![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
+![MasterHead](https://img.itch.zone/aW1hZ2UvMjExMzE3LzEwMjI3MTAuZ2lm/original/fy8WcE.gif)
 <h1 align="center">Hi 👋, I'm Chao Kimhay</h1>
 <h3 align="center">A passionate Networking</h3>
 <img align="right" alt="Coding" width="350" heigh="200" src="https://static.wixstatic.com/media/bbe642_62414e50bef34ce28db1afabf55f17ec~mv2.gif">
